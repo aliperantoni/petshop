@@ -1,0 +1,50 @@
+.Fundo {
+  text-align: center;
+  background-color: bisque;
+  padding: 20px;
+}
+
+.header {
+  background-color: burlywood;
+  padding: 10px;
+}
+
+.Section {
+  background-color: #CD853F;
+  color: #000;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.Footer {
+  background-color: burlywood;
+  padding: 10px;
+}
+
+.Navegacao {
+  background-color: #f8f8f8;
+  padding: 1em;
+  text-align: center;
+}
+
+.Navegacao ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.Navegacao ul li {
+  margin: 0 1em;
+}
+
+.Navegacao ul li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.Navegacao ul li a:hover {
+  text-decoration: underline;
+}

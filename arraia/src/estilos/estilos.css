@@ -1,0 +1,21 @@
+.fundo {
+  text-align: center;
+  background-color: #fffafa;
+  padding: 20px;
+}
+
+.header {
+  background-color: #ffebcd;
+  padding: 10px;
+}
+
+.section {
+  background-color: #ffe4c4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #ffebcd;
+  padding: 10px;
+}
